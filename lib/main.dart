@@ -49,7 +49,7 @@ class MyHomePage extends StatelessWidget {
           ),
           child: Center(
             child: Image.asset(
-              'assets/images/nagi.jpg',
+              'assets/images/yong.jpg',
               width: 150,
               // height: 100, // สามารถละเว้นมิติหนึ่งเพื่อรักษาอัตราส่วนภาพ
               fit: BoxFit.contain, // ปรับขนาดให้พอดีภายในกล่องโดยไม่ตัดภาพ
